@@ -1,5 +1,5 @@
 # flutterhangman
-
+i have done this project with the help of my friend Nancy. she helped me in main.dart file coding
 A new Flutter project.
 
 ## Getting Started
